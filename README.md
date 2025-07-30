@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is dewcode
 
-- 🔭 I’m currently working as freelance penetration tester. 
-- 🌱 I'm currently learning Go and other scripting languages.
-- 👯 I'm looking to collaborate on building security tools.
+🔒 Penetration Tester | Cybersecurity Enthusiast
+
+Passionate about discovering vulnerabilities, securing systems, and helping organizations improve their security posture. Experienced in web application testing, network assessments, and red teaming. Always learning, sharing knowledge, and building open-source tools for the infosec community.
+
+Let’s connect and collaborate on security projects!
