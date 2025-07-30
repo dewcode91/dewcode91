@@ -22,15 +22,6 @@ Welcome to my GitHub! I'm a passionate penetration tester focused on discovering
 
 ---
 
-
-## 🤝 Let's Connect
-
-- **Twitter:** [@dewcode91](#)
-- **LinkedIn:** [dewanand2ram7vishal/](#)
-- **Website/Blog:** [dewcode.medium.com](#)
-
----
-
 ## 📢 Disclaimer
 
 All code and resources are for educational purposes only. Use responsibly and always with proper authorization!
