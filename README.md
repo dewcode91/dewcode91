@@ -1,7 +1,41 @@
-## Hi there 👋 My name is dewcode
+# 👋 Hi, I'm dewcode91
 
-🔒 Penetration Tester | Cybersecurity Enthusiast
+## 🛡️ Penetration Tester | Security Enthusiast
 
-Passionate about discovering vulnerabilities, securing systems, and helping organizations improve their security posture. Experienced in web application testing, network assessments, and red teaming. Always learning, sharing knowledge, and building open-source tools for the infosec community.
+Welcome to my GitHub! I'm a passionate penetration tester focused on discovering vulnerabilities, enhancing cyber defenses, and sharing security knowledge with the community.
 
-Let’s connect and collaborate on security projects!
+---
+
+## 🔥 About Me
+
+- **Profession:** Penetration Tester (Ethical Hacking, Security Audits, Red Teaming)
+- **Skills:** Exploit Development, Vulnerability Assessment, Web & Network Security, Reverse Engineering
+- **Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Kali Linux, custom scripts (Python/Bash), and more.
+
+---
+
+## 📂 What You'll Find Here
+
+- **Security Tools & Scripts:** Custom exploits, reconnaissance utilities, automation scripts
+- **Writeups:** CTF solutions, vulnerability reports, educational walkthroughs
+- **Learning Resources:** Security guides, cheat sheets, useful links
+
+---
+
+
+## 🤝 Let's Connect
+
+- **Twitter:** [@dewcode91](#)
+- **LinkedIn:** [dewanand2ram7vishal/](#)
+- **Website/Blog:** [dewcode.medium.com](#)
+
+---
+
+## 📢 Disclaimer
+
+All code and resources are for educational purposes only. Use responsibly and always with proper authorization!
+
+---
+
+Thanks for visiting my GitHub. Happy hacking! 🕶️
+
