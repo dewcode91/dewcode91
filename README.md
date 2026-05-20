@@ -1,32 +1,27 @@
-# 👋 Hi, I'm dewcode
+# Hi there, I'm dewcode 👋
 
-## 🛡️ Penetration Tester | Security Enthusiast
+### 🎓 Computer Science Student | 📱 Application Developer | 🔒 Security Enthusiast
 
-Welcome to my GitHub! I'm a passionate penetration tester focused on discovering vulnerabilities, enhancing cyber defenses, and sharing security knowledge with the community.
-
----
-
-## 🔥 About Me
-
-- **Profession:** Penetration Tester (Ethical Hacking, Security Audits, Red Teaming)
-- **Skills:** Exploit Development, Vulnerability Assessment, Web & Network Security, Reverse Engineering
-- **Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Kali Linux, custom scripts (Python/Bash), and more.
+I’m a Computer Science student passionate about building secure, scalable applications. I love bridging the gap between elegant user experiences and robust, secure backend architecture. Whether it's crafting mobile apps or auditing code for vulnerabilities, I'm always eager to learn and build.
 
 ---
 
-## 📂 What You'll Find Here
+## 🛠️ My Tech Stack
 
-- **Security Tools & Scripts:** Custom exploits, reconnaissance utilities, automation scripts
-- **Writeups:** CTF solutions, vulnerability reports, educational walkthroughs
-- **Learning Resources:** Security guides, cheat sheets, useful links
+### 🚀 Application Development
+*   **Languages:** Java, Kotlin, Python, JavaScript, TypeScript
+*   **Frameworks/Libraries:** React, Node.js, Android Studio, Flutter, Express
+
+### 🔒 Security & Tools
+*   **Concepts:** OWASP Top 10, Cryptography basis, Network Security, Secure Coding
+*   **Tools:** Git & GitHub, Linux (Kali/Ubuntu), Wireshark, Burp Suite (Learning)
+*   **Databases:** PostgreSQL, MongoDB, Firebase
 
 ---
 
-## 📢 Disclaimer
+## 📈 What I'm Up To Right Now
 
-All code and resources are for educational purposes only. Use responsibly and always with proper authorization!
+*   **Learning:** Advanced mobile application security and penetration testing.
+*   **Looking for:** Open-source collaborations on app dev or security-focused tools.
 
 ---
-
-Thanks for visiting my GitHub. Happy hacking! 🕶️
-
